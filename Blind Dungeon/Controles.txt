@@ -1,0 +1,1 @@
+Controles: Para moverte hacia arriba utiliza la letra, W, para ir hacia la derecha la letra A, para ir hacia la izquierda la D y para dirigirte hacia abajo la S, puedes pedir ayuda en cualquier parte de cada mapa apretandoo la letra F, pero usalas sabiamente, ya que solo tienes 3. 
